@@ -46,7 +46,7 @@ def main():
         Type 'exit' to exit.
         ******************************************************************''')
 
-    llm = OllamaChat(model="llama3:instruct")
+    llm = OllamaChat(model="llama3:8b-instruct-q8_0")
     online_agent = OnlineAgent(llm)
     plan_agent = Agent(llm, custom_system_prompt=prompt)
     normal_agent = Agent(llm, agent_type=AgentType.GENERIC_RESPONDER)

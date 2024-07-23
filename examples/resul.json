@@ -1,0 +1,13 @@
+{"name": "G.Gabinete de Gestión,S.L.",
+"email": "admin@evolution-tech.com",
+"phone": "943 31 69 63",
+"address": "C/ Portuetxe nº47 Edificio Askain; 3º planta, oficina 41\n20018-San Sebastián, Gipuzkoa, España",
+"items": [
+    {"fecha": "03/05/2024", "concepto": "Cambios en Contabilidad de empresa Biele China para cambiar la divisa de la empresa y todos los datos para que la divisa de la empresa sea Yuanes en lugar de dólares (5 horas). Arreglo problema código 105500084 s/correo de Inaxio Urbieta. Revisar problema FW: B3803 el desplegable no admite maquina 01 s/correo de Amaia. Arreglo problema proyecto B3745, Gastos OA aparece 2 veces. Error al sacar excel de todas las maquinas en proyecto B1343.", "cantidad": "7,0000", "precio": "81,00", "iva": "21,00%", "importe": "567,00"},
+    {"fecha": "10/05/2024", "concepto": "Cambio programa pedidos automáticos para que se puedan realizar los pedidos desde un pedido del cliente tanto en SAT como en no SAT (11 horas). Ayuda a Maria obtención Excel libros contables para entrega l auditor a peticion de Maria. Revision problema con pedido 3026563  s/correo de Jabier Sudupe. Revision problema volcado de listas a Marzola s/ correo de Aritz Illarramendi (1 hora). Revision funcionamiento si trato de crear un numero de proveedor  nuevo con el NIF de otro existente.", "cantidad": "13,5000", "precio": "81,00", "iva": "21,00%", "importe": "1.093,50"},
+    {"fecha": "17/05/2024", "concepto": "Revision problema lentitud aplicación a petición de Ainara, Elaboración informe Entregas mes (Biele-MArzola) (5 horas). Arreglo y explicacion problema repuestos proyecto B2036, códigos sin maquina (2 horas). Desbloquear la OF B324107 en pedidos automáticos, Cerrrar todas las líneas del pedido 3017912.", "cantidad": "8,0000", "precio": "81,00", "iva": "21,00%", "importe": "648,00"},
+    {"fecha": "24/05/2024", "concepto": "listado de proveedores y clientes  Por compra, para sacar los proveedores principales (media de los ultimos 5 años) (5 horas). Matriz responsabilidadaes y revision procedimientos almacenados a peticion de Maria.", "cantidad": "", "precio": "", "iva": "", "importe": ""},
+    {"fecha": "25/07/2024", "concepto": "TOTALES", "cantidad": "", "precio": "", "iva": "", "importe": "4.312,44"}
+]
+}
+
