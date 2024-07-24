@@ -2,7 +2,7 @@ from llm_axe.agents import PdfReader
 from llm_axe.models import OllamaChat
 
 #llm = OllamaChat(model="llama3:instruct")
-llm=OllamaChat(model="llama3:8b-instruct-q8_0")
+llm=OllamaChat(model="llama3.1:8b-instruct-q8_0")
 
 # We specify the files that we want the llm to be able to read.
 # Note: The files should fit within your LLM's context window.

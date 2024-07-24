@@ -3,7 +3,9 @@ from llm_axe.models import OllamaChat
 from llm_axe.agents import DataExtractor
 
 
-llm=OllamaChat(model="llama3:8b-instruct-q8_0")
+#llm=OllamaChat(model="llama3:8b-instruct-q8_0")
+llm=OllamaChat(model="llama3.1:8b-instruct-q8_0")
+
 info = read_pdf("C:/Ia/docs/0/biele05.pdf")
 
 # It will reply in proper json since we set reply_as_json to True
